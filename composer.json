@@ -1,11 +1,11 @@
 {
-    "name": "dawson/youtube",
+    "name": "adslle/youtube",
     "description": "Upload a video to YouTube with Laravel 5.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Joe Dawson",
-            "email": "hi@joedawson.me"
+            "name": "Adsl le",
+            "email": "adslle@adslle.com"
         }
     ],
     "require": {
